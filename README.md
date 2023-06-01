@@ -1,8 +1,8 @@
 # MyTetris
 
 c语音写俄罗斯方块 可上机运行 
-可直接执行exe文件查看运行效果
 **还有会变色的小方块噢！！**
+可直接执行exe文件查看运行效果
 
 ## 思路
 ![image](https://user-images.githubusercontent.com/105651412/236232737-20e9f34b-fc1b-46ae-9247-9e6dcab7d294.png)
